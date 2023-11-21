@@ -1,0 +1,100 @@
+[
+    {
+      "id": 0,
+      "nama": "Batik Kawung",
+      "gambar": "https://www.semarangpos.com/files/2020/07/07batik-kawung.jpg",
+      "asal": "Jawa Tengah, Yogyakarta, dan daerah sekitarnya",
+      "makna": "Batik kawung adalah salah satu tipe batik paling tua di Indonesia, dan kabarnya, motif ini memiliki dua macam arti yang berbeda. Beberapa orang percaya bahwa motif batik kawung terinspirasi dari buah kawung (sejenis buah aren) yang dibelah dua, tapi ada pula yang yakin bahwa motif ini berasal dari bentuk jenis kumbang yang disebut kwangwung."
+    },
+    {
+      "id": 1,
+      "nama": "Batik Megamendung",
+      "gambar": "https://cdn.medcom.id/images/library/images/bola/hilman/Batik%20mega%20mendung%20jpg.jpg",
+      "asal": "Cirebon, Jawa Barat",
+      "makna": "Sejarah batik megamendung berkaitan dengan kedatangan masyarakat Cina ke Cirebon pada abad ke-16. Kemudian membawa beberapa karya seni yang bermotif awan dari negara asalnya. Awan adalah simbol dunia atas dalam paham Taoisme, dan oleh karena itu, motif megamendung bisa melambangkan luasnya dunia."
+    },
+    {
+      "id": 2,
+      "nama": "Batik Sogan",
+      "gambar": "https://webicdn.com/sdirmember/9/8681/produk/ftr6h.jpg",
+      "asal": "Surakarta, Jawa Tengah",
+      "makna": "Warna sogan (kecoklatan) yang menjadi ciri khas batik Solo, dan kemudian disebut sebagai batik sogan ini, memiliki arti ” kerendahan hati, bersahaja ” menandakan kedekatan dengan bumi, alam, yang secara sosial bermakna dekat dengan rakyat."
+    },
+    {
+      "id": 3,
+      "nama": "Batik Parang",
+      "gambar": "https://www.semarangpos.com/files/2020/07/08batik.jpg",
+      "asal": "Kartasura, Jawa Tengah",
+      "makna": "Sebagai salah satu motif batik dasar yang paling tua Batik Parang ini memiliki makna petuah untuk tidak pernah menyerah, ibarat ombak laut yang tak pernah berhenti bergerak. Batik Parang juga menggambarkan jalinan yang tidak pernah putus, baik dalam arti upaya untuk memperbaiki diri, upaya memperjuangkan kesejahteraan, maupun bentuk pertalian keluarga."
+    },
+    {
+      "id": 4,
+      "nama": "Batik Sidoasih",
+      "gambar": "https://i.pinimg.com/originals/b1/f3/d4/b1f3d4505bd60123a38dcdfd1b6a97bb.jpg",
+      "asal": "Yogyakarta dan Surakarta, Jawa Tengah",
+      "makna": "Sidoasih adalah gabungan dari dua kata: 'sido' yang berarti terus-menerus, dan 'asih' yang berarti sayang. Jadi sidoasih berarti kasih sayang yang tidak pernah berhenti. Karena memiliki arti kasih sayang, batik sidoasih biasanya digunakan oleh pengantin Jawa agar pernikahan mereka penuh cinta dan kasih sayang."
+    },
+    {
+      "id": 5,
+      "nama": "Batik Pekalongan",
+      "gambar": "https://img.okezone.com/content/2021/02/03/194/2355590/3-motif-batik-pekalongan-yang-cantik-cantik-banget-2IITU4kJ5Y.jpg",
+      "asal": "Pekalongan, Jawa Tengah",
+      "makna": "Ciri khas jenis batik Pekalongan yakni didominasi dengan motif tumbuh-tumbuhan dan hewan. Selain memiliki motif bunga yang cerah, ciri lain dari batik Pekalongan ini juga memiliki motif garis dan juga titik pada setiap hasil kerajiann batik tersebut. Batik Pekalongan menggambarkan ciri kehidupan masyarakat pesisir yang mudah beradaptasi pengaruh budaya luar."
+    },
+    {
+      "id": 6,
+      "nama": "Batik Lasem",
+      "gambar": "https://www.infobatik.com/wp-content/uploads/2020/11/batik-lasem-motif-gunung-ringgit.jpg",
+      "asal": "Kecamatan Lasem, Kabupaten Rembang, Jawa Tengah",
+      "makna": "Batik Lasem adalah salah satu jenis kain batik pesisiran yang merupakan hasil silang budaya dari batik lokal dan merupakan serapan unsur-unsur budaya asing. Batik Lasem memiliki ciri khas yang unik dan kental dengan nuansa budaya Cina dan Jawa. Motif dan warna dalam batik Lasem memiliki makna simbolik terkait dengan unsur filosofi Cina dan Jawa."
+    },
+    {
+      "id": 7,
+      "nama": "Batik Truntum",
+      "gambar": "https://img.okezone.com/content/2018/02/14/194/1859308/mengenal-batik-truntum-yang-melambangkan-makna-cinta-dan-kesetiaan-ONSfcwIsv8.jpg",
+      "asal": "Surakarta, Jawa Tengah",
+      "makna": "Motif Truntum melambangkan romantika cinta antara dua manusia. Secara etimologi, Truntum atau taruntum (Jawa) berasal dari istilah, “teruntum-tuntum” artinya tumbuh lagi. Taruntum memiliki makna senantiasa bersemi kembali atau semarak lagi. “Truntum, taruntum, kira-kira berarti ‘tumbuh kembali’, ‘bersemi kembali’, ‘semarak kembali’."
+    },
+    {
+      "id": 8,
+      "nama": "Batik Papua",
+      "gambar": "https://akcdn.detik.net.id/community/media/visual/2019/10/02/7d626517-7311-47d7-bd6b-8719533b6bee.jpeg?a=1",
+      "asal": "Papua",
+      "makna": "Makna simbolik yang terkandung pada beberapa motif Batik Papua yaitu Motif Cendrawasih yang menggambarkan kekayaan,keindahan dan keanggunan alam dan fauna Papua."
+    },
+    {
+      "id": 9,
+      "nama": "Batik Madura",
+      "gambar": "https://akcdn.detik.net.id/community/media/visual/2019/10/02/3ea0c3ba-e77b-4fcc-bf53-88bfec471fb6.jpeg?a=1",
+      "asal": "Madura, Jawa Timur",
+      "makna": "Batik khas Pulau Madura yang memiliki beragam motif dan corak yang unik. Secara umum, motif Batik Madura menggunakan warna merah, kuning dan hijau yang cerah. Gambar yang ditampilkan terutama bunga dan daun. Coraknya berupa titik-titik putih yang menyerupai butiran garam khas Pulau Madura."
+    },
+    {
+      "id": 10,
+      "nama": "Batik Betawi",
+      "gambar": "https://akcdn.detik.net.id/community/media/visual/2019/10/02/c85a4f3d-87c5-40b9-bae6-c1249c681080.jpeg?a=1",
+      "asal": "DKI Jakarta",
+      "makna": "Batik khas betawi memiliki makna yang mendalam dalam kehidupan masyarakat Betawi. Batik ini sebagai keseimbangan alam semesta dan pemenuhan hidup yang sejahtera serta penuh berkah. Batik ini juga menjadi upaya masyarakat Betawi dalam mempertahankan nilai-nilai budayanya yang telah ada secara turun-temurun dari leluhur mereka."
+    },
+    {
+      "id": 11,
+      "nama": "Batik Cianjur",
+      "gambar": "http://rumahukm.com/wp-content/uploads/2015/06/Batik-Cianjur-Hayam-Pelung-e1433411091531.jpg",
+      "asal": "Cianjur, Jawa Barat",
+      "makna": "Batik Cianjur menyimpan cerita sejarah pertanian di Tanah Sunda. Karena itu, pada batik Cianjuran, pakem yang terkenal adalah beasan. Motif batik yang bersumber dari inspirasi pertanian ini juga mempengaruhi pewarnaaan, sehingga warna umumnya mendekati warna tanah, daun, atau bulir padi lebih dominan"
+    },
+    {
+      "id": 12,
+      "nama": "Batik Tegal",
+      "gambar": "https://www.semarangpos.com/files/2020/08/26Batik-Tegalan.jpg",
+      "asal": "Tegal, Jawa Tengah",
+      "makna": "Batik Tegal dapat dikenali dari corak gambar atau motif rengrengan besar atau melebar. Motif ini terinspirasi dari flora dan fauna lingkungan sekitar. Warna lembut dan kontras memunculkan kesan tegas dan lugas seperti karakter masyarakat Tegal."
+    },
+    {
+      "id": 13,
+      "nama": "Batik Aceh",
+      "gambar": "https://fasnina.com/wp-content/uploads/2020/01/batik-aceh-yang-mudah-digambar.jpg",
+      "asal": "Aceh",
+      "makna": "Motif Batik Aceh memiliki ciri khas tersendiri, yaitu menggunakan perpaduan unsur alam dan budaya dari masyarakat aceh sendiri. Untuk warna yang dominan dipakai dalam batik Aceh adalah warna cerah, seperti warna merah muda, merah, kuning, dan hijau.Motif Batik Aceh yang terkenal diantaranya adalah motif pintu Aceh, bunga jeumpa, motif tolak angin, rencong, gayo, dan sebagainya."
+    }
+  ]
